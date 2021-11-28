@@ -1,0 +1,7 @@
+C:\Users\90545\source\repos\mainnnnn\mainnnnn\bin\Debug\mainnnnn.exe.config
+C:\Users\90545\source\repos\mainnnnn\mainnnnn\bin\Debug\mainnnnn.exe
+C:\Users\90545\source\repos\mainnnnn\mainnnnn\bin\Debug\mainnnnn.pdb
+C:\Users\90545\source\repos\mainnnnn\mainnnnn\obj\Debug\mainnnnn.csprojAssemblyReference.cache
+C:\Users\90545\source\repos\mainnnnn\mainnnnn\obj\Debug\mainnnnn.csproj.CoreCompileInputs.cache
+C:\Users\90545\source\repos\mainnnnn\mainnnnn\obj\Debug\mainnnnn.exe
+C:\Users\90545\source\repos\mainnnnn\mainnnnn\obj\Debug\mainnnnn.pdb
